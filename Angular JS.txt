@@ -1,0 +1,94 @@
+Angular JS   (https://github.com/MyTraining2018/Angular_FLP)
+-------------
+
+Prerequisites:
+--------
+> HTML 5
+> CSS 3
+> Java Script_ES6 
+> Type Script - superset of JS
+
+> JS doesn't support interfaces etc. So, TS is used to bring many features.
+> Open source appn.
+> Used for frontend applications
+> To develop frontend application, we use angular JS, react HS.
+> JSON notaion (JS Object Notation)
+> SPA (Single Page Appn.)
+> To design SPA, we use Angular JS.
+> MVC 
+> Event driven
+> In Angular JS, we use NPN (Node Package Manager)
+
+> TS has 3 types: string, boolean, number
+
+
+
+JS Framework:
+
+NPM ( just like how Maven provides dependencies, NPM manages in JS)
+> NPM has package.json file.
+> libraries can be found in node-modules folder.
+
+ES5, ES6 - Java Script version/Standard
+
+Transpiler - converts Type script to JS
+	- Backward compatibility
+	- babel transpiler
+
+Polyfilling: provides backward compatibility to JS.
+
+Testing
+
+Security
+> JS is not secure.
+
+
+Ways of writing A JS:
+Internal JS
+External JS (preferrable)
+Inline JS
+
+> Function level scope
+> Block level scope
+
+AJAX: Asynchronous JS and XML
+
+synchronous: immediately needing a response
+asynchronous request can be handled by Ajax.
+
+
+differences:
+------------
+==  
+=== 
+
+eg:
+var str="2";
+var num=2;
+
+if(str==num)  --> returns true
+
+if (str===num) --> returns false as it is strongly typed [one is str and other is num]
+
+
+
+difference between JS and Type script:
+
+why use of type script when JS is being used?
+> JS is difficult to understand and is messy.
+
+Java is used rather than Assembly language as it is understandable, high-level.
+Similarly, Type JS can be used rather than JS.
+
+
+v8engine -- engine which executes ur appn in Chrome browser.
+chakra -- in IE browser
+
+> Namespaces is a container which stores interfaces, classess and functions.
+
+
+Visual Studio -- internally has TS supported as it is Microsoft product.
+
+JS -- script can be verified only during runtime.
+Type Script -- verified during compile time (TS compiler)
+
