@@ -1,0 +1,39 @@
+Angular JS 2
+-------------------------------------------------------------------
+
+Set up:
+-----
+1. browser
+2. npm --> through node.js
+	in CMD, > node --version
+		> npm --version
+		> ng --version  --> angular CLI
+			to set in proxy:
+			> npm config set proxy http://<username>:<password>@proxy-server-url:<port> 
+			> npm install @angular/cli	
+3. Visual Studio code
+
+
+
+> Expressive HTML --> a set of html can be defined as a user defined tag
+		  --> can be shown as a template
+
+> Angular follows 2 binding: one way binding: {{ }} 
+			     two way binding: using ng-model and property binding --> any change in page will be effected in controller as well.
+
+> {{ }} -- interpolation notaion
+
+> angular1 uses JS whereas angular2 uses type script.
+
+> Angular JS appn = component + component + ...
+> component = template + class + metadata 
+> metadata --> can be represented with @component --> decorators
+
+
+
+https://angular.io/guide/quickstart
+
+
+
+> Angular is modular
+
